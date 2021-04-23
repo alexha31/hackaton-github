@@ -1,4 +1,6 @@
 # hackaton-github
+## Mark
+### Mark otra vez
 
 Uso básico de git y github, trabajo de manera colaborativa.
 
@@ -9,4 +11,6 @@ La idea de este repositorio es que cada quien cree un archivo.html (basado en ex
 - el lamento
 
 1. elimento
-2. alimento
+2. alimento ´<h1></h1>´
+
+___texto___
